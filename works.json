@@ -1,117 +1,26 @@
 {
   "site": {
-    "name": "Your Name",
-    "lead": "映像、グラフィック、3D、プロジェクトの実績をまとめています。気になる作品を選ぶと、制作の背景や使用ツールを確認できます。",
-    "email": "you@example.com"
+    "name": "ギャラリー",
+    "lead": "セオの作品を載せてます",
+    "email": "seo@scrmbl"
   },
   "works": [
     {
-      "id": "w-short-film",
-      "title": "ショートフィルム「夜明けの手前」",
+      "id": "wmwhqshoq",
+      "title": "Happy Halloween",
       "tags": [
-        "動画"
+        "画像",
+        "3DCG"
       ],
       "year": 2026,
-      "role": "監督・撮影・編集",
-      "description": "夜明け前の30分間を切り取った6分間の短編です。\n照明を使わず自然光だけで撮影し、Premiere ProとDaVinci Resolveでカラーグレーディングを行いました。",
-      "tools": [
-        "Premiere Pro",
-        "DaVinci Resolve",
-        "After Effects"
-      ],
-      "video": null,
-      "image": "",
-      "links": []
-    },
-    {
-      "id": "w-mv-motion",
-      "title": "ミュージックビデオ モーショングラフィックス",
-      "tags": [
-        "動画",
-        "グラフィック"
-      ],
-      "year": 2026,
-      "role": "モーションデザイン",
-      "description": "歌詞のリズムに合わせて動くタイポグラフィを制作しました。\nAfter Effectsのエクスプレッションで、音量に連動して文字が揺れる仕組みを組んでいます。",
-      "tools": [
-        "After Effects",
-        "Illustrator"
-      ],
-      "video": null,
-      "image": "",
-      "links": []
-    },
-    {
-      "id": "w-blender-room",
-      "title": "3D空間「静かな部屋」",
-      "tags": [
-        "3D"
-      ],
-      "year": 2025,
-      "role": "3Dモデリング・ライティング",
-      "description": "窓から差し込む光の質感にこだわった室内シーンです。\nCyclesでレンダリングし、Substance Painterでテクスチャを作成しました。",
+      "role": "シーン構築（レイアウト）・ライティング・レンダリング・画像編集",
+      "description": "使用アセット： BlenderKit（一部モデル・テクスチャ）",
       "tools": [
         "Blender",
-        "Substance Painter"
+        "Adobe Photoshop"
       ],
       "video": null,
-      "image": "",
-      "links": []
-    },
-    {
-      "id": "w-poster-series",
-      "title": "展覧会ポスターシリーズ",
-      "tags": [
-        "グラフィック"
-      ],
-      "year": 2025,
-      "role": "アートディレクション・デザイン",
-      "description": "学内展示のために制作した3枚組のポスターです。\n余白と書体の太さだけで構成し、並べたときに1つの景色になるよう設計しました。",
-      "tools": [
-        "Illustrator",
-        "Photoshop",
-        "InDesign"
-      ],
-      "video": null,
-      "image": "",
-      "links": []
-    },
-    {
-      "id": "w-generative-py",
-      "title": "ジェネラティブアート実験",
-      "tags": [
-        "プロジェクト",
-        "グラフィック"
-      ],
-      "year": 2025,
-      "role": "企画・プログラミング",
-      "description": "ノイズ関数と粒子の動きから模様を生成するプログラムです。\n1回の実行ごとに異なる絵が出力され、気に入ったものを選んでポスターにしました。",
-      "tools": [
-        "Python",
-        "NumPy",
-        "p5.js"
-      ],
-      "video": null,
-      "image": "",
-      "links": []
-    },
-    {
-      "id": "w-team-project",
-      "title": "チーム制作「まちの音アーカイブ」",
-      "tags": [
-        "プロジェクト",
-        "動画"
-      ],
-      "year": 2025,
-      "role": "プロジェクトリーダー",
-      "description": "街の音を録音して集め、映像とウェブサイトにまとめたプロジェクトです。\n企画・撮影・実装を4名で分担し、全体の進行管理を担当しました。",
-      "tools": [
-        "Premiere Pro",
-        "Figma",
-        "JavaScript"
-      ],
-      "video": null,
-      "image": "",
+      "image": "img/wmwhqshoq-mwhqwpjf.jpg",
       "links": []
     }
   ]
